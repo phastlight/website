@@ -10,7 +10,7 @@
     <meta name="description" content="PPI Skeleton Project">
     <meta name="viewport" content="width=device-width">
     
-    <title><?php $view['slots']->output('title', 'PPI Skeleton Application') ?></title>
+    <title><?php $view['slots']->output('title', 'Phastlight Project') ?></title>
     
     <!-- CSS Stuff -->
     <link href="<?=$view['assets']->getUrl('css/libs/bootstrap.min.css');?>" rel="stylesheet">
@@ -39,7 +39,7 @@
         <div class="navbar navbar-fixed-top">
             <div class="navbar-inner">
                 <div class="container">
-                    <a class="brand" href="<?=$view['router']->generate('Homepage');?>">PPI Skeleton Application</a>
+                    <a class="brand" href="<?=$view['router']->generate('Homepage');?>">Phastlight Project</a>
                     <ul class="nav">
                         <li class="active"><a href="#">Home</a></li>
                         <li><a href="#">About</a></li>
