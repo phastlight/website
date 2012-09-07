@@ -4,7 +4,7 @@
 <div class="box" id="homepage">
     
     <div class="box-header well">
-        <h2>Welcome to the PPI Skeleton Application</h2>
+        <h2>Welcome to the Phastlight Project</h2>
     </div>
     
     <div class="box-content">
