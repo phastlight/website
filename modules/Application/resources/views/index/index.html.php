@@ -10,7 +10,7 @@
     <div class="box-content">
         
         <div class="page-header">
-            <h1>Bundled libraries <small>Hey PPI user! We have pre-integrated a bunch of frontend libraries for you</small></h1>
+            <h3>Event driven PHP 5.3 server built using node.js technology</h3>
         </div>     
         <div class="row-fluid">            
             <div class="span4">
