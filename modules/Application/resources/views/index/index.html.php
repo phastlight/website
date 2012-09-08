@@ -4,13 +4,13 @@
 <div class="box" id="homepage">
     
     <div class="box-header well">
-        <h2>Welcome to the Phastlight Project</h2>
+        <h2>Welcome to the Phastlight, Webserver written in PHP 5.3 enlightened by Node.js</h2>
     </div>
     
     <div class="box-content">
         
         <div class="page-header">
-            <h3>Event driven PHP 5.3 server built using node.js technology</h3>
+            <h3>Event driven PHP 5.3 server enlightned by Node.js</h3>
         </div>     
         <div class="row-fluid">            
             <div class="span4">
